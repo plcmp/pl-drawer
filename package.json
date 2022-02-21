@@ -1,0 +1,28 @@
+{
+    "name": "@plcmp/pl-drawer",
+    "version": "0.0.1",
+    "description": "Simple drawer component.",
+    "main": "pl-drawer.js",
+    "repository": {
+        "url": "https://github.com/plcmp/pl-drawer.git"
+    },
+    "license": "MIT",
+    "type": "module",
+    "author": {
+        "name": "Azat Yamalov",
+        "email": "yamalov.azat@live.com"
+    },
+    "contributors": [
+        {
+            "name": "Dmitry Boikov",
+            "email": "boikovdv@gmail.com"
+        },
+        {
+            "name": "Andrey Maksimov",
+            "email": "andrmaxmail@gmail.com"
+        }
+    ],
+    "dependencies": {
+        "polylib": "^1.0.0"
+    }
+}
